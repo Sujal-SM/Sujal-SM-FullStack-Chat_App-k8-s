@@ -9,6 +9,7 @@ This project aims to provide a real-time chat experience that's both scalable an
 ![image](https://github.com/user-attachments/assets/f845a188-8e70-42f7-8577-30af38e83053)
 
 
+
   - **User Interaction:**
     - Users interact with the frontend application running in their browser. This includes actions like logging in, sending messages, and navigating through the chat interface.Frontend (React App):The frontend is responsible for rendering the user interface and handling user inputs.It communicates with the backend via HTTP requests (for RESTful APIs) and WebSocket connections (for real-time interactions).
 
